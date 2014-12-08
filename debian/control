@@ -1,0 +1,22 @@
+## This file is part of Whonix.
+## Copyright (C) 2012 - 2014 Patrick Schleizer <adrelanos@riseup.net>
+## See the file COPYING for copying conditions.
+
+Source: grub-screen-resolution
+Section: misc
+Priority: optional
+Maintainer: Patrick Schleizer <adrelanos@riseup.net>
+Build-Depends: debhelper (>= 8), faketime
+Homepage: https://github.com/Whonix/grub-screen-resolution
+Vcs-Browser: https://github.com/Whonix/grub-screen-resolution
+Vcs-Git: https://github.com/Whonix/grub-screen-resolution.git
+Standards-Version: 3.9.4
+
+Package: grub-screen-resolution
+Architecture: all
+Depends: ${misc:Depends}
+Description: Sets 1024x768 as boot screen resolution
+ Ships a /etc/default/grub.d/30_screen_resolution.cfg configuration file, that
+ injects "vga=0x0317" into the GRUB_CMDLINE_LINUX_DEFAULT variable.
+ .
+ For better usability.
