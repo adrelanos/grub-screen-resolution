@@ -1,10 +1,9 @@
-# Enables AppArmor and Verbose Output during Boot #
+# Sets 1024x768 as boot screen resolution #
 
-Modifies /etc/default/grub. Removes "quiet" from GRUB_CMDLINE_LINUX_DEFAULT.
-And adds "vga=0x0317 apparmor=1 security=apparmor" to
-GRUB_CMDLINE_LINUX_DEFAULT.
+Ships a /etc/default/grub.d/30_screen_resolution.cfg configuration file, that
+injects "vga=0x0317" into the GRUB_CMDLINE_LINUX_DEFAULT variable.
 
-For better security/usability.
+For better usability.
 
 (This package description has been [automatically](https://github.com/Whonix/whonix-developer-meta-files/blob/master/debug-steps/packaging-helper-script) extracted and mirrored from `debian/control`.)
 
