@@ -1,0 +1,35 @@
+commit 1c8787c9c79c11b0964ae202d677e06730b128ac
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Feb 4 00:40:38 2015 +0000
+
+    updated makefile generic to version 1.3
+
+commit de042be0b8b692903a0f3ce94652520ab4a471fa
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Feb 3 23:58:42 2015 +0000
+
+    Added creation of upstream changelog to debian/rules
+
+commit ba2144e8527abd5c8919431ac0649950a900e3b1
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Jan 7 19:43:07 2015 +0000
+
+    updated readme
+
+commit 734ef50658fafd2eb05aa0cdf735558b18fec0e9
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Jan 7 19:33:43 2015 +0000
+
+    bumped compat from 8 to 9
+
+commit be32264427db05c1d46607710970b89556521570
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Dec 13 13:55:53 2014 +0000
+
+    fix
+
+commit aa2375adeb08b221f505a3a5cfd21a95f9d62feb
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Dec 8 19:22:32 2014 +0000
+
+    initial implementation
