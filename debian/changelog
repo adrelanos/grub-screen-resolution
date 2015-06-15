@@ -1,3 +1,9 @@
+grub-screen-resolution (3:0.8-1) unstable; urgency=medium
+
+  * New upstream version (local package).
+
+ -- Patrick Schleizer <adrelanos@riseup.net>  Mon, 15 Jun 2015 00:31:57 +0000
+
 grub-screen-resolution (3:0.7-1) unstable; urgency=low
 
   * New upstream version (local package).
