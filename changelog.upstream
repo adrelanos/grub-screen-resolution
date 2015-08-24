@@ -1,3 +1,27 @@
+commit 7dd558cf2537ff4f972e9b7e8a42071d39eda382
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Aug 15 17:55:08 2015 +0000
+
+    comment
+
+commit b03aea8ff3a2ad28ec1bec7dba3d4a58e55cceda
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Jul 24 01:11:24 2015 +0200
+
+    run update-grub during postinst so package takes effect right after installation - https://phabricator.whonix.org/T377
+
+commit da30378569f3ce41dec8036c730fd1c678b742a7
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Jul 24 00:39:22 2015 +0200
+
+    fixed
+
+commit 17e8f11759cd4a05117dcc4172810ef4a29c3c51
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Jun 15 00:32:01 2015 +0000
+
+    bumped changelog version
+
 commit c3b653a27c95f2b513953c63b714962746ae09a3
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Mon Jun 15 00:31:13 2015 +0000
