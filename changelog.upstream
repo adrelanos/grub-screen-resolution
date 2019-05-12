@@ -1,3 +1,15 @@
+commit e62ec3aa01da6a3aebcd6a6af11e3bf8fcbe20da
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sun May 12 02:58:43 2019 -0400
+
+    update path to pre.bsh
+
+commit 1dbeca2a38a4178e153d159be2f037ce3c1d51a3
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri May 3 11:27:03 2019 +0000
+
+    bumped changelog version
+
 commit df0aae1f99ff214422a55edb404533c710dcab96
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Fri May 3 10:56:54 2019 +0000
