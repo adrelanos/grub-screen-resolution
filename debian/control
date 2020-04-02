@@ -19,3 +19,7 @@ Description: Sets 1024x768 as boot screen resolution
  injects "vga=0x0317" into the GRUB_CMDLINE_LINUX_DEFAULT variable.
  .
  For better usability.
+ .
+ Installing this package in Qubes might cause issues, see:
+ https://phabricator.whonix.org/T353
+ This is the only reason why this package is not merged into any other package.
