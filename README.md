@@ -4,6 +4,10 @@ Ships a /etc/default/grub.d/30_screen_resolution.cfg configuration file, that
 injects "vga=0x0317" into the GRUB_CMDLINE_LINUX_DEFAULT variable.
 
 For better usability.
+
+Installing this package in Qubes might cause issues, see:
+https://phabricator.whonix.org/T353
+This is the only reason why this package is not merged into any other package.
 ## How to install `grub-screen-resolution` using apt-get ##
 
 1\. Download [Whonix's Signing Key]().
